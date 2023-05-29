@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.containers {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+input {
+    outline: none;
+    position: relative;
+}
